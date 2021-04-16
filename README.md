@@ -2,7 +2,7 @@
   EDUCATIONAL WEBSITE 
 </h1>
 
-<p align="center"> This website was built back in 2018 high school when I was in the IT course in Lisbon. <p>
+<p align="center"> This website was built back in 2019 high school when I was in the IT course in Lisbon. <p>
 
 ![Final Result](images/website.png) <br>
 
@@ -25,9 +25,7 @@ On this website I worked with: <br>
 ## 📌 POSSIBLE UPGRADES
 I'm uploading this project on github because I think this is something I can work on to improve and practice my habilities so, possibly in my free times I'll be doing some updates on this website without changing it's original objective, just it's appeareance.
 
----
-
-## 💁‍♀️ Author
+## 💁‍♀️ AUTHOR
 <table>
   <tr>
     <td align="center">
