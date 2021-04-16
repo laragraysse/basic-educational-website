@@ -4,7 +4,7 @@
 
 <p align="center"> This website was built back in 2018 high school when I was in the IT course in Lisbon. <p>
 
-<img src="https://i.imgur.com/bv8xdWX.png" alt="Website Preview" /> <br><br>
+![Final Result](images/website.png) <br>
 
 ## 📑 ABOUT THE WEBSITE
 The purpose of this website was to present a creative portuguese project about "Os Maias", a history written by Eça de Queiroz, and since we were in an IT course and the area I liked the most was Web Development, I decided to make a simple website for this portuguese "exam" project.<br>
